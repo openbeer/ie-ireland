@@ -4,6 +4,7 @@ _________________________________________________________________
 - St. James's Gate Brewery|Arthur Guinness Son & Co, Dublin
 
 Guinness|Guinness Draught, 4.2%, irish_dry_stout|dry_stout|stout
+Guinness Foreign Extra, 7.5%,   stout
 
 
 _________________________________________________________________
@@ -17,6 +18,25 @@ Smithwick's, 4.5%, irish_red_ale|red_ale|ale
 ___________________________________________________
 - Murphy Brewery, Cork
 
-Murphy's Red,         5%,  irish_red_ale|red_ale|ale
-Murphy's Irish Stout, 4%,  irish_dry_stout|dry_stout|stout
+Murphy's Irish Red|Murphy's Red,   5.2%,  irish_red_ale|red_ale|ale
+Murphy's Irish Stout,              4.3%,  irish_dry_stout|dry_stout|stout
+
+
+______________________________________________
+- Carlow Brewing
+
+O'Hara's Irish Red, 4.3%, red_ale
+O'Hara's Irish Stout, 4.3%,   stout
+
+
+____________________________________________
+- Hooker Brewery
+
+Galway Hooker Irish Pale Ale, 4.4%, ale
+
+___________________________________________
+- Porterhouse Brewing
+
+Porterhouse Oyster Stout, 4.8%,  stout
+Wrasslers XXXX Stout, 5%,  stout
 
