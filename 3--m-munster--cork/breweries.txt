@@ -1,0 +1,8 @@
+######################################
+# Breweries in Munster (M), Ireland
+
+
+# Counties:
+#   Clare • Cork • Kerry • Limerick • Tipperary(North Tipperary • South Tipperary) • Waterford
+
+
