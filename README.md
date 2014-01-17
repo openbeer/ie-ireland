@@ -1,6 +1,6 @@
-# Beers n Breweries in Ireland (ie)
+# Beers, Breweries n Brewpubs in Ireland (ie)
 
-Free open public domain beer n brewery data for Ireland / Europe
+Free open public domain beer, brewery n brewpub data for Ireland / Europe. Example:
 
 ~~~
 _________________________________________________________________
