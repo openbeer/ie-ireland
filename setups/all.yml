@@ -4,7 +4,8 @@ breweries:
 - ie-ireland!/2--u-ulster--northern/breweries
 - ie-ireland!/3--m-munster--cork/breweries
 - ie-ireland!/4--c-connacht--galway/breweries
-- ie-ireland!/breweries.txt
+- ie-ireland!/breweries
 
 beers:
-- ie-ireland!/beers.txt
+- ie-ireland!/beers
+
